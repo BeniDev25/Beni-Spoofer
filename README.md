@@ -7,7 +7,7 @@
 # **Our Features**
 
 **Temp Spoofing / Perm Spoofer in the Future**
-**Serials Backup**
-**Revert Spoof**
-**User Friendly**
+**Serials Backup** /
+**Revert Spoof** /
+**User Friendly** /
 **Everything Open Source**
